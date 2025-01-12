@@ -1,9 +1,8 @@
 ---
-icon: hand-wave
+**icon: hand-wave
 description: >-
-  Create and publish beautiful documentation your users will love. GitBook has
-  all the tools you need to create everything from product guides to API
-  references and beyond.
+      Atlantis Code represents a digital collection of Five Ancient Temples, beginning with the foundational Genesis Temple. This project bridges ancient wisdom with Web3 technology, creating a unique ecosystem where digital ownership meets transformational experiences. Our vision is to build a powerful community of holders who gain access to both digital utilities and carefully curated real-world experiences.
+** 
 layout:
   title:
     visible: true
